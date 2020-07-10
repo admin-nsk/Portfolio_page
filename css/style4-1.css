@@ -1,0 +1,112 @@
+body {
+	background-color: #f5f5f5;
+	font-family: Arial;
+	margin: 0;
+	padding: 0;
+	min-width: 1000px;
+}
+
+h2 {
+	margin-top: 65px;
+}
+
+button:focus {
+	outline: none;
+	/*outline-color: #f7f7f7; */
+}
+
+
+#central {
+	width: 960px;
+	margin: 0 auto;
+}
+	#left_part {
+		width: 470px;
+		float: left;
+		height: 750px;
+	}
+		.task {
+			width: 470px;
+			/*height: 140px;*/
+			margin-bottom: 20px;
+		}
+			.task_name {
+				border-bottom: 1px solid #f7f7f7; 
+				background-color: white;
+				height: 10px;
+				padding: 20px 20px 20px 20px;
+			}
+				.delete {
+					border: none;
+					height: 10px;
+					width: 10px;
+					background-image: url("../img/clear-button.png");
+					background-color: white;
+					background-repeat : no-repeat;
+					margin-left: 20px;
+				}
+				.menu {
+					border: none;
+					height: 10px;
+					width: 10px;
+					background-image: url("../img/str.png");
+					background-repeat : no-repeat;
+					background-color: white;
+					float: right;
+					
+				}
+			.task_desc {
+				background-color: white;
+				color: #8993ad;
+				height: 100px;
+				padding: 10px 20px;
+			}
+	#right_part {
+		width: 470px;
+		height: 750px;
+		margin-left: 20px;
+		float: left;
+	}
+		#form_newTask {
+			background-color: white;
+			height: 500px;
+			padding: 30px 40px 40px 40px;
+			margin-bottom: 20px; 
+		}
+			.h4 {
+				color: #8993ad;
+				font-size: 14px;
+			}
+			#name_form {
+				height: 45px;
+				width: 390px;
+				background-color: #fcfcfc;
+				border: 2px solid #f6f6f6; 
+			}
+				#name_form:focus {
+					outline: none;
+				}
+			#text_input {
+				height: 230px;
+				width: 390px;
+				background-color: #fcfcfc;
+				border: 2px solid #f6f6f6;
+			}
+				#text_input:focus {
+					outline: none;
+				}
+
+			#AddTask {
+				background-color: #2174fd;
+				margin-top: 30px;
+				width: 225px;
+				height: 55px;
+				font-size: 16px;
+				font-style: bold;
+				color: white;
+				border: none;
+			}
+
+			.rotateButton {
+				transform: rotate(90deg);
+			}
