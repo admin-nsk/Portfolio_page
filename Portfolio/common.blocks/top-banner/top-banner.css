@@ -1,0 +1,104 @@
+/*-----------top banner--------------------*/
+.top-banner {
+	height: 650px;
+	/*max-width: 1600px;*/
+	background-image: url('../../img/Ellipse.svg');
+	/*background-position: right bottom;*/
+	background-size: auto 100%;
+	background-repeat: no-repeat;
+	background-position-x: 100%;
+	background-position-y: 110px;
+	position: relative;
+	}
+	.top-banner-content {
+	height: 100%;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	-moz-flex-wrap: nowrap;
+	-ms-flex-wrap: nowrap;
+	-o-flex-wrap: nowrap;
+	flex-wrap: nowrap;
+	-webkit-flex-direction: row;
+	-moz-flex-direction: row;
+	-ms-flex-direction: row;
+	-o-flex-direction: row;
+	flex-direction: row;
+	justify-content: space-between;
+
+	}
+	.top-banner__description-content {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	.top-banner__name {
+		font-family: Roboto;
+		font-size: 80px;
+		font-weight: bold;
+	}
+	.top-banner__text {
+		color: #8993ad;
+		font-size: 25px;
+	}
+	.button-know-more {
+		margin-top: 20px;
+	}
+	.button-know-more:focus {
+	}
+	.top-banner__photo {
+		height: 650px;
+		width: 500px;
+		background-image: url('../../img/Photo.png');
+		background-repeat: no-repeat;
+		background-size: contain;
+		background-position: center bottom;
+		/*box-shadow: inset 0 0 10px rgba(0,0,0,0.5)*/
+	}
+	/*#*/
+.top-banner__random-element-1 {
+	left: 3%;
+	top:9em;
+	transform: rotate(20deg);
+}
+/*{}*/
+.top-banner__random-element-2 {
+	left: 3em;
+	top: 4em;
+	transform: rotate(40deg);
+}
+/*<div>*/
+.top-banner__random-element-3 {
+	left: 15em;
+	top: 15em;
+	transform: rotate(30deg);
+	
+}
+/*</>*/
+.top-banner__random-element-4 {
+	top: 2em;
+	left: 14em;
+	transform: rotate(-10deg);	
+}
+.top-banner__random-element-5 {
+	top: 2em;
+	right: 5em;
+	transform: rotate(-15deg);	
+	font-size: 25px !important;
+
+}
+.top-banner__random-element_style {
+	display: block;
+	position: absolute;
+	font-size: 35px;
+	font-weight: bold;
+	background: linear-gradient(to top left, #ff812e, #ff3095);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	width: 100px;
+	margin: 0;
+	z-index: 10;
+}

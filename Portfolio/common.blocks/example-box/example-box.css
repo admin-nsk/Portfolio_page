@@ -1,0 +1,97 @@
+/*---------------Block with examples----------------*/
+
+.example-box {
+	background-color: #fbfbfb;
+	height: 850px;
+
+}
+
+.example-box__content {
+	height: 100%;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.curousel {
+	position: relative;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	flex-wrap: nowrap;
+	-webkit-flex-direction: row;
+	-moz-flex-direction: row;
+	-ms-flex-direction: row;
+	-o-flex-direction: row;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
+.curousel__item {
+	margin: 30px;
+}
+	
+	.left-arrow {
+		width: 60px;
+		height: 60px;
+		box-shadow: 0 0 10px rgba(0,0,0,0.5);
+		background-image: url('../../img/arrow.png');
+		background-repeat: no-repeat;
+		-webkit-background-size: contain;
+		background-size: contain;
+		/*float: left;*/
+		border: none;
+		outline: none;
+		border-radius: 60px;
+		align-self: flex-start;
+		cursor: pointer;
+		/*position: absolute;*/
+		/*left: 5px;*/
+		/*top: 100px;*/
+	}
+
+	.right-arrow {
+		width: 60px;
+		height: 60px;
+		background-image: url('../../img/arrow.png');
+		background-repeat: no-repeat;
+		-webkit-background-size: contain;
+		background-size: contain;
+		transform: rotate(180deg);
+		box-shadow: 0 0 10px rgba(0,0,0,0.5);
+		/*float: right;*/
+		border: none;
+		outline: none;
+		border-radius: 60px;
+		align-self: flex-end;
+		cursor: pointer;
+	}
+.circle-select {
+	display: none;
+	width: 100px;
+}
+.circle-select__button-1 {
+	fill: #ebebeb;
+}
+.circle-select__button-2 {
+	fill: #ebebeb;
+}
+.circle-select__button-3{
+	display: none;
+	fill: #ebebeb;
+
+}
+.button-order-project{
+
+}

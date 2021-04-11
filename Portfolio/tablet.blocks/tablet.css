@@ -1,0 +1,103 @@
+/*-------------Change size-------------------*/
+	@media (max-width: 1200px) {
+/*---------------------TOP-LINE-------------------*/
+		.desktop-menu {
+			display: none;
+		}
+		.burger-menu {
+			display: block;
+			max-width: 60px;
+			max-height: 60px;
+		}
+
+/*-------------TOP-BANNER---------------------*/
+	.top-banner__name {
+		font-size: 54px;
+	}
+	.top-banner__photo {
+		/*background-size: cover;*/
+	}
+	.top-banner__random-element-1 {
+		/*left: 3%;*/
+		top:14em;
+		transform: rotate(20deg);
+	}
+	/*{}*/
+	.top-banner__random-element-2 {
+		left: 2em;
+		top: 2em;
+		transform: rotate(40deg);
+	}
+	/*<div>*/
+	.top-banner__random-element-3 {
+		left: 8em;
+		top: 1em;
+		transform: rotate(30deg);
+		
+	}
+	/*</>*/
+	.top-banner__random-element-4 {
+		top: 5em;
+		left: 6em;
+		transform: rotate(-10deg);	
+	}
+	.top-banner__random-element-5 {
+		top: 2em;
+		right: 2em !important;
+		transform: rotate(-15deg);	
+		font-size: 25px !important;
+
+	}
+/*---------------WHAT-I-DO-BOX-----------------*/
+.what-i-do-box {
+	height: 880px;
+}
+/*---------------EXAMPLES----------------------*/
+	.left-arrow {
+		display: none;
+	}
+	.right-arrow {
+		display: none;
+	}
+	.curousel__item3_display {
+		display: none;
+		}
+	.circle-select {
+		display: block;
+	}
+	
+
+/*-------------BOTTOM-BANNER----------------*/
+		/*#*/
+	.bottom-banner__random-element-1 {
+		left: 3%;
+		top: 12em;
+		transform: rotate(20deg);
+	}
+	/*{}*/
+	.bottom-banner__random-element-2 {
+		left: 3em;
+		top: 2em;
+		transform: rotate(40deg);
+	}
+	/*<div>*/
+	.bottom-banner__random-element-3 {
+		left: 6em;
+		top: 10em;
+		transform: rotate(30deg);
+		
+	}
+	/*</>*/
+	.bottom-banner__random-element-4 {
+		top: 10em;
+		right: 2em;
+		transform: rotate(-10deg);	
+	}
+	.bottom-banner__random-element-5 {
+		top: 2em;
+		right: 5em;
+		transform: rotate(-15deg);	
+		font-size: 25px !important;
+
+	}
+}

@@ -1,0 +1,967 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"fi",
+				"fill\tproperty"
+			],
+			[
+				"ci",
+				"circle-button"
+			],
+			[
+				"E",
+				"example-box__content"
+			],
+			[
+				"fl",
+				"flex-start\talign-content"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"flx",
+				"flex-wrap\tproperty"
+			],
+			[
+				"ali",
+				"align-self\tproperty"
+			],
+			[
+				"c",
+				"column\tflex-direction"
+			],
+			[
+				"e",
+				"example-box"
+			],
+			[
+				"fo",
+				"fixed-container"
+			],
+			[
+				"flex-",
+				"flex-direction\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin"
+			],
+			[
+				"fw-n",
+				"fxw-n\tflex-wrap: nowrap;"
+			],
+			[
+				"l",
+				"left_arrow"
+			],
+			[
+				"back",
+				"background-position\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"ph",
+				"phone_number"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"p",
+				"phone"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"j",
+				"justify-content-center"
+			],
+			[
+				"botto",
+				"bottom_line"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"con",
+				"container-xl"
+			],
+			[
+				"contain",
+				"container-fluid"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"m",
+				"min-width\tproperty"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"font",
+				"font\tproperty"
+			],
+			[
+				"mo",
+				"mob_date_time"
+			],
+			[
+				"pd",
+				"padding-left\tproperty"
+			],
+			[
+				"o",
+				"order\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"mob",
+				"mob_menu_img"
+			],
+			[
+				"sear",
+				"search-button"
+			],
+			[
+				"d",
+				"d-n\tdisplay: none;"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"div",
+				"divKurs"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"task",
+				"task_desc"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"change",
+				"changeFontColor"
+			],
+			[
+				"logo",
+				"logo1"
+			],
+			[
+				"list-s",
+				"list-style-type\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"br",
+				"background-repeat\tproperty"
+			],
+			[
+				"bgr",
+				"bgr-x\tbackground-repeat: repeat-x;"
+			],
+			[
+				"bi",
+				"background-image\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"v",
+				"vertical-align\tproperty"
+			],
+			[
+				"top",
+				"margin-top\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"cel",
+				"cellpadding\tAttr"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6989,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "common.css",
+			"settings":
+			{
+				"buffer_size": 3834,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "common.blocks/what-i-do-box.css",
+			"settings":
+			{
+				"buffer_size": 856,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "\\"
+			}
+		},
+		{
+			"file": "common.blocks/example-box/example-box.css",
+			"settings":
+			{
+				"buffer_size": 1771,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "common.blocks/top-banner/top-banner.css",
+			"settings":
+			{
+				"buffer_size": 2120,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "common.blocks/bottom-banner.css",
+			"settings":
+			{
+				"buffer_size": 1344,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "tablet.blocks/tablet.css",
+			"settings":
+			{
+				"buffer_size": 1809,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "mobile.blocks/mobile.css",
+			"settings":
+			{
+				"buffer_size": 3179,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"git status",
+			"git log",
+			"git"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Project/HTML/skillbox/Diplom-finish",
+		"/D/Project/HTML/skillbox/Diplom-finish/common.blocks",
+		"/D/Project/HTML/skillbox/Diplom-finish/common.blocks/example-box",
+		"/D/Project/HTML/skillbox/Diplom-finish/img",
+		"/D/Project/HTML/skillbox/Diplom-finish/mobile.blocks"
+	],
+	"file_history":
+	[
+		"/C/Users/adm_s/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/D/Project/HTML/skillbox/Diplom/css/bootstrap-grid.css",
+		"/D/Project/HTML/skillbox/Diplom-finish/common.blocks/footer.css",
+		"/D/Project/HTML/skillbox/Diplom-finish/common.blocks/bottom-banner.css",
+		"/D/Project/HTML/skillbox/Diplom-finish/common.css",
+		"/D/Project/HTML/skillbox/Diplom-finish/common.blocks/top-line/top-line.css",
+		"/D/Project/HTML/skillbox/Diplom/diplom.html",
+		"/D/Project/HTML/skillbox/Diplom/stylediplom.css",
+		"/D/Project/HTML/skillbox/Diplom/scriptdiplom.js",
+		"/D/Лёша/HTML CSS/SkillBox/script.js",
+		"/D/Лёша/HTML CSS/SkillBox/script2.js",
+		"/D/Лёша/HTML CSS/SkillBox/style2.css",
+		"/D/Лёша/HTML CSS/SkillBox/index.html",
+		"/D/Лёша/HTML CSS/SkillBox/index-2.html",
+		"/D/Project/HTML/skillbox/script/script4-1.js",
+		"/D/Project/HTML/skillbox/Modul4-6.html",
+		"/D/Project/HTML/Task/task.html",
+		"/D/Project/HTML/skillbox/script/like_button.js",
+		"/D/Project/HTML/skillbox/modul5-4.html",
+		"/D/Лёша/HTML CSS/SkillBox/img/close.png",
+		"/D/arduino/Тексты/GreenHouse.ino",
+		"/D/Лёша/HTML CSS/SkillBox/img/burger.png",
+		"/D/Лёша/HTML CSS/SkillBox/img/logo-1.png",
+		"/D/Лёша/HTML CSS/SkillBox/img/logo.png",
+		"/D/Project/HTML/skillbox/Modul4-1.html",
+		"/D/Project/HTML/skillbox/css/style4-1.css",
+		"/D/arduino/Тексты/.git/COMMIT_EDITMSG",
+		"/D/Project/HTML/skillbox/.git/COMMIT_EDITMSG",
+		"/C/Users/adm_s/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
+		"/D/Project/HTML/skillbox/img/clear-button.png",
+		"/D/Лёша/HTML CSS/SkillBox/work.html",
+		"/D/Лёша/HTML CSS/SkillBox/Хитрости",
+		"/D/Лёша/HTML CSS/SkillBox/work2.html",
+		"/D/Лёша/HTML CSS/SkillBox/styles.css",
+		"/D/Лёша/HTML CSS/SkillBox/homework1.html",
+		"/D/Лёша/HTML CSS/[Skillbox] - Frontend-разработчик (2020)/1. html/Модуль 1 - Вводный модуль/Материалы/1.2 SimplePage/new.html",
+		"/D/Лёша/HTML CSS/[Skillbox] - Frontend-разработчик (2020)/1. html/Модуль 3 - Основы CSS/Материалы/Заготовка/index.html",
+		"/D/Лёша/HTML CSS/[Skillbox] - Frontend-разработчик (2020)/1. html/Модуль 1 - Вводный модуль/Материалы/1.2 SimplePage/index.html",
+		"/D/Лёша/HTML CSS/SkillBox/homework3.html",
+		"/D/Лёша/HTML CSS/SkillBox/homework2.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"100em",
+			"code",
+			"circle",
+			"bottom_banner_text",
+			"@",
+			"row",
+			"just",
+			"justify",
+			"500px",
+			"fa",
+			"/fonts",
+			"25px",
+			"от",
+			">\n",
+			"flex",
+			"decoration",
+			"span",
+			"display",
+			">\n",
+			"\t\t\t    <",
+			"kurs",
+			";\n",
+			"500",
+			"EUR",
+			"response",
+			" '",
+			"script",
+			"main-news-date",
+			"news",
+			"main-news-date",
+			"div",
+			"central",
+			"news-item-time",
+			"central",
+			"<div class=\"central-news-item\">\n\t\t\t\t\t\t\t<img class=\"central-img\" src=\"img/news2.png\">\n\t\t\t\t\t\t\t<a href=\"#\">Дума увеличила пошлины за выдачу загранпаспортов и водительских прав</a>\n\t\t\t\t\t\t</div>",
+			"18px",
+			"main-news-probs",
+			"main-news-bottom-text",
+			"main-news-item-props",
+			"main-news-date",
+			"news-comments-count",
+			"news-item-time",
+			"news",
+			"item",
+			"background",
+			"main-news-time",
+			"\"></",
+			"black",
+			" align=\"left\" width=\"70\"",
+			"\"50\"",
+			"\"30\"",
+			"\"20\"",
+			"valign",
+			"></",
+			"td",
+			"доклада",
+			">\n",
+			"Hampden",
+			"html",
+			"body"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"plaintext",
+			"fonts",
+			"div",
+			"",
+			"\"70\"",
+			"\"50\"",
+			"\"30\"",
+			"align"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6989,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 675.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "common.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "common.blocks/what-i-do-box.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 856,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								694,
+								694
+							]
+						],
+						"settings":
+						{
+							"auto_name": "\\",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 164.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "common.blocks/example-box/example-box.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1170.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "common.blocks/top-banner/top-banner.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								978,
+								993
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1021.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "common.blocks/bottom-banner.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1344,
+								1344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 630.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "tablet.blocks/tablet.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "mobile.blocks/mobile.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								222,
+								222
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Diplom-finish.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Project\\HTML\\Exercise\\exercises.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 245.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

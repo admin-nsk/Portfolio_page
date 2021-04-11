@@ -1,0 +1,16 @@
+.mobile-menu {
+    display: none;
+}
+
+.mobile-menu__item {
+    font-size: 18px;
+    min-width: 320px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e5e5e5;
+}
+.mobile-menu__item-a {
+    color: black;
+    text-decoration: none;
+    padding: 10px 16px;
+}

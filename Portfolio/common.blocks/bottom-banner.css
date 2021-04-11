@@ -1,0 +1,73 @@
+/*---------------Bottom banner----------------*/
+.bottom-banner {
+	background-image: linear-gradient(to top right, #ff8f5a, #ff2f96);
+	height: 360px;
+	display: flex;
+	padding: 50px 20px 50px 20px;
+	position: relative;
+}	
+	.bottom-banner__content {
+		height: 100%;
+		max-width: 950px;
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		flex-direction: column;
+		align-content: center;
+		justify-content: center;
+		margin: auto;
+	}
+	.bottom-banner__main-text {
+		color: white;
+		font-size: 45px;
+		font-weight: bold;
+		font-family: Roboto;
+	}
+	.bottom-banner__little-text {
+		color: white;
+		font-size: 18px;
+	}
+	/*#*/
+.bottom-banner__random-element-1 {
+	left: 3%;
+	top: 9em;
+	transform: rotate(20deg);
+}
+/*{}*/
+.bottom-banner__random-element-2 {
+	left: 3em;
+	top: 5em;
+	transform: rotate(40deg);
+}
+/*<div>*/
+.bottom-banner__random-element-3 {
+	left: 6em;
+	top: 2em;
+	transform: rotate(30deg);
+	
+}
+/*</>*/
+.bottom-banner__random-element-4 {
+	top: 10em;
+	right: 2em;
+	transform: rotate(-10deg);	
+}
+.bottom-banner__random-element-5 {
+	top: 2em;
+	right: 5em;
+	transform: rotate(-15deg);	
+	font-size: 25px !important;
+
+}
+.bottom-banner__random-element_style {
+	display: block;
+	position: absolute;
+	font-size: 35px;
+	font-weight: bold;
+	color: white;
+	width: 100px;
+	margin: 0;
+	z-index: 10;
+}
